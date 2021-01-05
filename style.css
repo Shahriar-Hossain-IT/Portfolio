@@ -1,0 +1,219 @@
+ *{ margin:0; padding:0; box-sizing:border-box; }
+
+
+
+#Home {
+    background-image: url(Imag/home_bg.jpg);
+    background-repeat: no-repeat;
+
+    
+}
+#creadit {
+    color: white;
+}
+
+
+#Name {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 50px;
+    color: white;
+    padding-top: 250px;
+}
+
+
+
+.half_section {
+    width: 40%;
+    float: left;
+    
+}
+Bio {
+    background-image: url(Imag/top-view-collection-leaves-dots.jpg);
+    background-size: 304px, 304px;
+    background-repeat: no-repeat;
+    background-position-x: 610px;
+    background-position-y: 30px;
+    
+    
+}
+
+
+#my_bio {
+    padding: 30px 2px 0px 280px;
+    color: #031727;
+    font-family: 'Nunito', sans-serif;
+}
+
+#my_bio p {
+    font-size: 20px;
+}
+
+#my_bio h2 {
+    padding-bottom: 5px;
+}
+
+
+#img_box {
+    padding: 5px 0px 0px 150px;
+}
+
+#fst_profile {
+    width: 602px;
+    height: 602px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px black;
+    
+}
+
+#Services {
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+}
+
+#Services h2 {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+
+.Offers {
+    width: 20%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 150px;
+    align-items: center;
+    text-align: center;
+    border: 1px solid #A5998F;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-family: 'Nunito', sans-serif;
+    color: #031727;
+
+}
+
+
+.Offers img {
+    width: 50px;
+    height: 50px;
+}
+
+#snd_img_box {
+    padding: 1px 0px 0px 150px;
+    
+}
+
+#snd_profile {
+    width: 302px;
+    height: 302px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px black;
+    float: left;
+    margin-top: 35px ;
+}
+
+#my_Work_Experience {
+    padding: 45px 2px 0px 380px;
+    color: #031727;
+    font-family: 'Nunito', sans-serif;
+    margin-left: 200px;
+    margin-right: 80px;
+    align-items: center;
+}
+
+#my_Work_Experience h2 {
+    padding-bottom: 5px;
+}
+
+#my_Work_Experience h3 {
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+
+#Refrences {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+#Refrences h1 {
+    font-size: 50px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.Refrences_section {
+    width: 40%;
+    float: left;
+    margin-left: 110px;
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid #A5998F;
+    color: #031727;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    color: white;
+
+    
+}
+
+.sir_pic {
+    border-radius: 500px;
+    width: 150px;
+    height: 150px;
+    
+}
+
+#nasif {
+    background-color:#A5998F;
+    border-radius: 10px;
+}
+
+#golam {
+    background-color: #3F658D;
+    border-radius: 10px;
+}
+
+#footer {
+    text-align: center;
+    background-color: #DBE7F6;
+    margin-left: 0px;
+    padding-left: 0px;
+    font-family: 'Nunito', sans-serif;
+}
+
+#footer p {
+    font-size: 18px;
+    margin:0; 
+    padding:0; 
+    box-sizing:border-box;
+}
+
+#email {
+    text-decoration: none;
+    color: black;
+}
+
+.social_media_img {
+    width: 50px;
+    height: 40px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.social_media{
+    text-decoration: none;
+}
+
+.items {
+    margin-left: 30px;
+}
+
+
